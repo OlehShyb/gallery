@@ -1,0 +1,2 @@
+class NaturalEntity < ApplicationRecord
+end

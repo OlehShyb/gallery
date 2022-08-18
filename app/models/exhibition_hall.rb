@@ -1,0 +1,2 @@
+class ExhibitionHall < ApplicationRecord
+end
